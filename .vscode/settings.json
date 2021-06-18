@@ -1,0 +1,9 @@
+{
+    "python.pythonPath": "C:\\Users\\CCL\\AppData\\Local\\Programs\\Python\\Python39\\python.exe",
+    "files.associations": {
+        "**/*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/templates/**/*": "django-txt",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+    },
+}
